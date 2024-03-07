@@ -1,0 +1,122 @@
+[
+  [
+    "INNER JOIN, faqat o\u0027zaro mos kelishishlarini qaytaradi, LEFT JOIN esa barcha ma\u0027lumotlarni qaytaradi\r\n",
+    "INNER JOIN, faqat boshlang\u0027ich jadvaldagi ma\u0027lumotlarni qaytaradi, LEFT JOIN esa barcha jadvaldagi ma\u0027lumotlarni qaytaradi\r\n",
+    "INNER JOIN, faqat boshlang\u0027ich jadvaldagi ma\u0027lumotlarni qaytaradi, LEFT JOIN esa barcha qatnashuvchi jadvallardagi ma\u0027lumotlarni qaytaradi\r\n",
+    "INNER JOIN, barcha qatnashuvchi jadvallardagi ma\u0027lumotlarni qaytaradi, LEFT JOIN esa faqat o\u0027zaro mos kelishishlarni qaytaradi"
+  ],
+  [
+    "Ma\u0027lumotlarni turli jadvallarda ko\u0027chiradi\r\n",
+    "Ma\u0027lumotlar bazasini tozalaydi\r\n",
+    "Boshqa obyektlarni o\u0027chirganingizda bog\u0027liqli jadvallardagi ma\u0027lumotlarni ham o\u0027chiradi",
+    "Ma\u0027lumotlarni indeks bilan bir-biriga bog\u0027laydi"
+  ],
+  [
+    "WHERE aylana maydoni bo\u0027yicha qidiruv amal qiladi, HAVING esa ustunlarga qidiruv amal qiladi\r\n",
+    "WHERE ustunlarga qidiruv amal qiladi, HAVING esa aylana maydoni bo\u0027yicha qidiruv amal qiladi\r\n",
+    "WHERE faqat yagona shartni tekshiradi, HAVING esa guruhlangan qiymatlarga qidiruv amal qiladi\r\n",
+    "WHERE aylana maydoni bo\u0027yicha qidiruv amal qiladi, HAVING esa guruhlangan qiymatlarga qidiruv amal qiladi"
+  ],
+  [
+    "Ma\u0027lumotlarni to\u0027la tozalaydi\r\n",
+    "Xotirani tozalaydi va ma\u0027lumotlar bazasini yaxshilaydi\r\n",
+    "Ma\u0027lumotlar bazasini ta\u0027mirlaydi\r\n",
+    "Ma\u0027lumotlar bazasini statistikani yangilaydi"
+  ],
+  [
+    "Tranzaksiyani amalga oshirmaydi\r\n",
+    "Tranzaksiyani amalga oshiradi va yopadi\r\n",
+    "Obyektlarni o\u0027chiradi\r\n",
+    "Indeksni tiklaydi"
+  ],
+  [
+    "Faqat bitta tur mavjud: boshlang\u0027ich indeks\r\n",
+    "Boshlang\u0027ich va o\u0027rtacha indekslar\r\n",
+    "Yagona tur mavjud: indeks\r\n",
+    "Indeks mavjud emas"
+  ],
+  [
+    "Integer qiymatlar ketma-ketlikni anglatadi\r\n",
+    "Avtomatik tartiblash uchun ishlatiladi\r\n",
+    "Ma\u0027lumotlar bazasini tozalash uchun ishlatiladi\r\n",
+    "String qiymatlar ketma-ketlikni anglatadi"
+  ],
+  [
+    "REVOKE huquqlarni beradi, GRANT esa olib beradi\r\n",
+    "REVOKE huquqlarni olib beradi, GRANT esa beradi\r\n",
+    "REVOKE huquqlarni olib beradi, GRANT esa qaytaradi\r\n",
+    "REVOKE huquqlarni qaytaradi, GRANT esa beradi"
+  ],
+  [
+    "FULL OUTER JOIN jadvallar o\u0027rtasida bir-biriga mos kelishishlarni qaytaradi\r\n",
+    "FULL OUTER JOIN boshlang\u0027ich jadvaldagi ma\u0027lumotlarni qaytaradi\r\n",
+    "FULL OUTER JOIN jadvallar orasida bog\u0027lanish bo\u0027lmagan ma\u0027lumotlarni qaytaradi\r\n",
+    "FULL OUTER JOIN barcha ma\u0027lumotlarni qaytaradi, agar mos kelishmasa, NULL qiymatni qaytaradi"
+  ],
+  [
+    "Ma\u0027lumotlarni ko\u0027chiradi va yangilab qo\u0027yadi\r\n",
+    "Ma\u0027lumotlarni o\u0027chiradi\r\n",
+    "Ma\u0027lumotlarni kiritadi, agar bunday ma\u0027lumot mavjud bo\u0027lsa yangilaydi, aks holda, yangi ma\u0027lumot qo\u0027shadi\r\n",
+    "Ma\u0027lumotlarni to\u0027la tozalaydi"
+  ],
+  [
+    "Biznes obyektlarni birlashtiradi\r\n",
+    "Ma\u0027lumotlarni birlashtiradi\r\n",
+    "Obyektlarni o\u0027chiradi\r\n",
+    "Ma\u0027lumotlarni o\u0027chiradi "
+  ],
+  [
+    "Yangi jadval yaratadi\r\n",
+    "Ma\u0027lumotlarni o\u0027chiradi\r\n",
+    "Jadvalni tozalaydi\r\n",
+    "Indeksni tiklaydi"
+  ],
+  [
+    "Ma\u0027lumotlarni tozalaydi\r\n",
+    "Dublicatlarini olib tashlaydi\r\n",
+    "Unikal qiymatlarini qaytaradi\r\n",
+    "Qiymatlar orasida ta\u0027rif yaratadi"
+  ],
+  [
+    "ROLLBACK tranzaksiyani bekor qiladi, COMMIT esa amalga oshiradi\r\n",
+    "ROLLBACK tranzaksiyani amalga oshirmaydi, COMMIT esa bekor qiladi\r\n",
+    "ROLLBACK faqat o\u0027chiradi, COMMIT esa yaratadi\r\n",
+    "ROLLBACK faqat ma\u0027lumotlarni o\u0027chiradi, COMMIT esa ma\u0027lumotlarni saqlaydi"
+  ],
+  [
+    "To\u0027liq mos kelishishlarini qaytaradi\r\n",
+    "Qiymatlar orasida ta\u0027rif yaratadi\r\n",
+    "Ma\u0027lumotlarni o\u0027chiradi\r\n",
+    "Qiymatlar orasida qidiruv amal qiladi"
+  ],
+  [
+    "Ma\u0027lumotlarni tartiblaydi\r\n",
+    "Jadvalni yaratadi\r\n",
+    "Ma\u0027lumotlarni o\u0027chiradi\r\n",
+    "Ma\u0027lumotlarni o\u0027chiradi"
+  ],
+  [
+    "Ma\u0027lumotlarni o\u0027chiradi\r\n",
+    "Ma\u0027lumotlarni yaratadi\r\n",
+    "Ma\u0027lumotlarni qo\u0027shadi\r\n",
+    "Ma\u0027lumotlarni yangilaydi"
+  ],
+  [
+    "0\r\n",
+    "\u0022NULL\u0022\r\n",
+    "Nol belgisidan foydalaniladi\r\n",
+    "Null kalit so\u0027zi bilan"
+  ],
+  [
+    "Ma\u0027lumotlarni tartiblaydi\r\n",
+    "Ma\u0027lumotlarni o\u0027chiradi\r\n",
+    "Ma\u0027lumotlarni yaratadi\r\n",
+    "Ma\u0027lumotlarni sanaydi\r\n\r\n"
+  ],
+  [
+    "Ma\u0027lumotlarni yaratadi\r\n",
+    "Ma\u0027lumotlarni yangilaydi\r\n",
+    "Ma\u0027lumotlarni o\u0027chiradi\r\n",
+    "Ma\u0027lumotlarni tartiblaydi"
+  ]
+]

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c5Tb166oROfPSZa5KcmZEYMtH0Yx2k5COkp8GyQ0S7Grx36F01L3W2OIvfsAUKMZ6NVWVX56Hv1nMJvhCzPwDQ==",
+  "success": true,
+  "projectFilePath": "C:\\My works\\PDP_c#\\QuizBot\\QuizBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ro'zimuhammad\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Ro'zimuhammad\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
